@@ -1,2 +1,2 @@
-# Sites Profissionais Wordpress
-Curso - Crie sites profissionais com Wordpress
+# Sites Profissionais com Wordpress
+Curso do prof. Jamilto: Crie sites profissionais com Wordpress
