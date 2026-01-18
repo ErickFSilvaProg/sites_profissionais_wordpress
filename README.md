@@ -1,2 +1,2 @@
-# sites_profissionais_Wordpress
+# Sites Profissionais Wordpress
 Curso - Crie sites profissionais com Wordpress
